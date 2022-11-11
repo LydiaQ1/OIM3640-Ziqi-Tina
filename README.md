@@ -3,3 +3,4 @@
 ## Link
 ![This is an image](https://www.synopsys.com/blogs/software-security/wp-content/uploads/2017/03/agile-development.jpg)
 
+This site was built using [GitHub Pages](https://pages.github.com/).
