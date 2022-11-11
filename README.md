@@ -7,6 +7,7 @@ This project is about utilizing APIs to design a program that can help the users
 ## Link
 ![This is an image](https://www.synopsys.com/blogs/software-security/wp-content/uploads/2017/03/agile-development.jpg)
 LINK
+nvanaofai
 
 ## Implementation Plan
 To enable our designed function, we will be utilizing two APIs, the first one is the [Fitness Calculator](https://rapidapi.com/malaaddincelik/api/fitness-calculator), and the second is the [NutritionNix](https://www.nutritionix.com/). The first API will allow us to input user body information and return with BMI, daily calories 
